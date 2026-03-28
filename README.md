@@ -38,7 +38,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 customer         | customer_id
 ```
 
-![import](img/import_csv.png)
+![import](img/tables_and_pks.png)
 
 ---
 
